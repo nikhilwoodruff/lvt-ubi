@@ -1,0 +1,631 @@
+HHSerialW1,Wave 1 Household serial number
+HHSerialW2,Wave 2 Household serial number
+HHSerialW3,Wave 3 Household serial number
+HHSerialW4,Wave 4 Household serial number
+HHSerialW5,Wave 5 Household serial number
+AreaW1,Area W1
+AddressW1,Address W1
+HholdW1,Household W1
+YearW1,Year W1
+MonthW1,Month W1
+AreaW2,Area W2
+AddressW2,Address W2
+HholdW2,Household W2
+YearW2,Year W2
+MonthW2,Month W2
+AreaW3,Area W3
+AddressW3,Address W3
+HholdW3,Household W3
+YearW3,Year W3
+MonthW3,Month W3
+Areaw4,Area W4
+Addressw4,Address W4
+Hholdw4,Household W4
+Yearw4,Year W4
+MonthW4,Month W4
+AreaW5,Area W5
+AddressW5,Address W5
+HHoldW5,Household W5
+YearW5,Year W5
+MonthW5,Month W5
+CaseW1,Anonymised case for W1
+CaseW2,Anonymised case for W2
+CaseW3,Anonymised case for W3
+CaseW4,Anonymised case for W4
+CaseW5,Anonymised case for W5
+HOutW5,Wave 5 Household outcome code
+w5xshhwgt,W5 cross-sectional hh weight
+AccomW5,Type of accommodation
+FltTypW5,Type of flatmaisonette
+AccOthW5,Other types of accommodation
+Ten1W5,Tenure
+TiedW5,Accomm tied to job
+LLordW5,Landlord
+FurnW5,If furnished
+DVPriRntW5,DV private renting household
+HHownW5,How became owner of main residence
+HBedrmW5,Number of bedrooms
+HAgeBW5,When was main res built
+HAgeYrW5,Year built main res if 1985 or later
+HBuyYrW5,Year bought main residence
+HBuySeW5,Season/quarter main rsidence bought
+HShareW5,Whether shares ownership of main res
+HSharePW5,Shared percentage of main residence
+HPriceW5,Price paid for all or share of main res
+HPriceBW5,Estimate of price paid for all or share of main res
+HBFromW5,Who bought main res from
+HRTBevW5,Ever bought home from LA under RTB
+HHOSchW5,Ever bought thru assisted home ownership scheme
+HValueW5,Expected current value of main res
+HValBW5,Estimated value of  main residence
+Hext1W5,How extended property
+Hext2W5,How extended property
+Hext3W5,How extended property
+Hext4W5,How extended property
+MNumbNW5,Number mortgages or loans on property
+MNumbW5,Number of mortgages/loans
+MW2Chk1W5,Still have this mortgage
+MW2Chk2W5,Still have this mortgage
+MW2Chk3W5,Still have this mortgage
+MExtnW5,Increased borrowing?
+MExtRs1W5,Reason for extra borrowing
+MExtRs2W5,Reason for extra borrowing
+MExtRs3W5,Reason for extra borrowing
+MChgeW5,New mortgages on property in last two years?
+MChgeNumW5,Number mortgages taken out in last two years
+MNumbOW5,Number outstanding mortgages on property
+MName1W5,In whose name is the mortgage held?
+MOname1W5,Person sole mortgage loan holder
+MJname01W5,Person(s) joint mortgage or loan holder
+MJname02W5,Person(s) joint mortgage or loan holder
+MJname03W5,Person(s) joint mortgage or loan holder
+MJname04W5,Person(s) joint mortgage or loan holder
+MReas01W5,Reasons why mortgage taken out
+MReas02W5,Reasons why mortgage taken out
+MReas03W5,Reasons why mortgage taken out
+MReas04W5,Reasons why mortgage taken out
+MReas05W5,Reasons why mortgage taken out
+MReas06W5,Reasons why mortgage taken out
+MReas07W5,Reasons why mortgage taken out
+MType1W5,Type of mortgage
+MEndw1W5,Endowment policies secured on property
+Mendnum1W5,Number endowments covering mortgageloan
+MAll1W5,All-in-one account?
+MAllty1W5,Type of all-in-one account mortgage
+MVal1W5,Amount still outstanding mortgageloan
+MValB1W5,Banded amount outstanding on mortgageloan
+MNeg1W5,Amount negative balanceoverdraft current account
+MNegB1W5,Banded amount negative balanceoverdraft current account
+MEndv1W5,Value of endowment
+MEndVb1W5,Closest value of endowment
+MEndy1W5,When will endowment pay out
+MEndv2W5,Value of endowment
+MEndVb2W5,Closest value of endowment
+MEndy2W5,When will endowment pay out
+MEndv3W5,Value of endowment
+MEndVb3W5,Closest value of endowment
+MEndy3W5,When will endowment pay out
+MEndv4W5,Value of endowment
+MEndVb4W5,Closest value of endowment
+MEndy4W5,When will endowment pay out
+MEndv5W5,Value of endowment
+MEndx1W5,How much of mortgage 1 endowment(s) expected to pay off
+MinvW1W5,Whether has any linked investments
+MinvW2W5,Whether has any linked investments
+MinvW3W5,Whether has any linked investments
+MPolicy1W5,Amount of mortgage 1 expects investment policies to pay off
+MPolicy2W5,Amount of mortgage 2 expects investment policies to pay off
+MYLft1W5,Years left to run on mortgage
+MYIfCh1W5,Extended length of mortgage last two years?
+MIntPaid1W5,Interest paid on mortgage?
+MIntFix1W5,Whether interest fixed amount or variable rate for mortgage 1
+MIntRate1W5,Interest rate on mortgage
+MPayM1W5,Total monthly repayments for mortgage
+MPayB1W5,Banded value monthly repayment on mortgage
+MPastSPA1W5,Expect to continue mortgage beyond SPA?
+MYPastSPA1W5,Years mortgage expected to run past SPA
+MInc1W5,What is included in repayments
+MInc2W5,What is included in repayments
+MInc3W5,What is included in repayments
+MInc4W5,What is included in repayments
+MInc5W5,What is included in repayments
+MPP1W5,Whether has mortgage protection policy
+MHowPy1W5,How mortgage is paid
+MArrs1W5,Status of repayments on this mortgage
+MArrsV1W5,Amount owed on missedoverdue payments
+MArr2Yr1W5,Whether fallen behind with loan repayments
+MArr2Yr2W5,Whether fallen behind with loan repayments
+MArr2Yr3W5,Whether fallen behind with loan repayments
+MArrCl01W5,How arrears for mortgage 1 were cleared
+MArrCl02W5,How arrears for mortgage 1 were cleared
+MArrCl12W5,How arrears for mortgage 2 were cleared
+DBurdHW5,Burden of mortgage and other debt on household
+MName2W5,In whose name is the mortgage held?
+MOname2W5,Person sole mortgage loan holder
+MJname18W5,Person(s) joint mortgage or loan holder
+MJname19W5,Person(s) joint mortgage or loan holder
+MJname20W5,Person(s) joint mortgage or loan holder
+MReas12W5,Reasons why mortgage taken out
+MReas13W5,Reasons why mortgage taken out
+MReas14W5,Reasons why mortgage taken out
+MType2W5,Type of mortgage
+BridLn1W5,Type of loan on property (mortgage 1)
+BridLn2W5,Type of loan on property (mortgage 2)
+BridLn3W5,Type of loan on property (mortgage 3)
+LendTy1W5,Type of lender for mortgage 1
+LendTy2W5,Type of lender for mortgage 2
+LendTy3W5,Type of lender for mortgage 3
+MEndw2W5,Endowment policies secured on property
+Mendnum2W5,Number endowments covering mortgageloan
+MAll2W5,All-in-one account?
+MAllty2W5,Type of all-in-one account mortgage
+MVal2W5,Amount still outstanding mortgageloan
+MValB2W5,Banded amount outstanding on mortgageloan
+MNeg2W5,Amount negative balanceoverdraft current account
+MNegB2W5,Banded amount negative balanceoverdraft current account
+MEndv6W5,Value of endowment
+MEndVb6W5,Closest value of endowment
+MEndy6W5,When will endowment pay out
+MEndv7W5,Value of endowment
+MEndVb7W5,Closest value of endowment
+MEndy7W5,When will endowment pay out
+MEndv8W5,Value of endowment
+MEndVb8W5,Closest value of endowment
+MEndy8W5,When will endowment pay out
+MEndx2W5,How much of mortgage 2 endowment(s) expected to pay off
+MYLft2W5,Years left to run on mortgage
+MYIfCh2W5,Extended length of mortgage last two years?
+MPastSPA2W5,Expect to continue mortgage beyond SPA?
+MYPastSPA2W5,Years mortgage expected to run past SPA
+MPayM2W5,Total monthly repayments for mortgage
+MPayB2W5,Banded value monthly repayment on mortgage
+MInc6W5,What is included in repayments
+MPP2W5,Whether has mortgage protection policy
+MIntPaid2W5,Interest paid on mortgage?
+MIntFix2W5,Whether interest fixed amount or variable rate for mortgage 2
+MIntRate2W5,Interest rate on mortgage
+MHowPy2W5,How mortgage is paid
+MArrs2W5,Status of repayments on this mortgage
+MArrsV2W5,Amount owed on missedoverdue payments
+MName3W5,In whose name is the mortgage held?
+MOname3W5,Person sole mortgage loan holder
+MJname35W5,Person(s) joint mortgage or loan holder
+MJname36W5,Person(s) joint mortgage or loan holder
+MReas23W5,Reasons why mortgage taken out
+MReas24W5,Reasons why mortgage taken out
+MType3W5,Type of mortgage
+MEndw3W5,Endowment policies secured on property
+Mendnum3W5,Number endowments covering mortgageloan
+MAll3W5,All-in-one account?
+MAllty3W5,Type of all-in-one account mortgage
+MVal3W5,Amount still outstanding mortgageloan
+MValB3W5,Banded amount outstanding on mortgageloan
+MNeg3W5,Amount negative balanceoverdraft current account
+MNegB3W5,Banded amount negative balanceoverdraft current account
+MEndv11W5,Value of endowment
+MEndVb11W5,Closest value of endowment
+MEndy11W5,When will endowment pay out
+MEndx3W5,How much of mortgage 3 endowment(s) expected to pay off
+MYLft3W5,Years left to run on mortgage
+MYIfCh3W5,Extended length of mortgage last two years?
+MPastSPA3W5,Expect to continue mortgage beyond SPA?
+MYPastSPA3W5,Years mortgage expected to run past SPA
+MPayM3W5,Total monthly repayments for mortgage
+MPayB3W5,Banded value monthly repayment on mortgage
+MInc11W5,What is included in repayments
+MPP3W5,Whether has mortgage protection policy
+MIntPaid3W5,Interest paid on mortgage?
+MIntFix3W5,Whether interest fixed amount or variable rate for mortgage 3
+MIntRate3W5,Interest rate on mortgage
+MHowPy3W5,How mortgage is paid
+MArrs3W5,Status of repayments on this mortgage
+MArrsV3W5,Amount owed on missedoverdue payments
+EqOldW5,Old equity release arrangement
+EqNewW5,New equity release arrangement
+EqYesW5,Raised incomecapital from current home
+EqType1W5,Type(s) of lifetime mortgage
+EqType2W5,Type(s) of lifetime mortgage
+EqType3W5,Type(s) of lifetime mortgage
+EqType4W5,Type(s) of lifetime mortgage
+EqType5W5,Type(s) of lifetime mortgage
+EqType6W5,Type(s) of lifetime mortgage
+EqType7W5,Type(s) of lifetime mortgage
+EqType8W5,Type(s) of lifetime mortgage
+EqType9W5,Type(s) of lifetime mortgage
+EqWhenYW5,Year lifetime mortgageannuity taken out
+EqWhenMW5,Month lifetime mortgageannuity taken out
+EqDrawW5,Did this mortgage have a drawdown element
+EqValW5,Amount of lifetime mortgageannuity
+EqValBW5,Value of the mortgage
+EqValDrW5,Amount of lifetime mortgageannuity
+EqValDrBW5,Total drawn down so far
+ERecW5,Regular payments received from scheme?
+ERecMPDW5,Period payments cover
+ERecMW5,Monthly amount lifetime mortgageannuity
+ERecMBMW5,"Amount from this scheme, this period"
+ERecMBYW5,Banded amount received this period
+ERecTaxW5,Monthly income beforeafter tax
+EIntW5,Interest paid on mortgage?
+EIntFixW5,Interest payable as fixed amount or variable rate?
+EIntRatW5,Interest rate on lifetime mortgageannuity
+EMSPayW5,Missed any interest repayments
+EMSArrW5,Amount owed in missed interest payments
+FRRepfixW5,Fixed amount agreed to pay for the loan
+SharAppW5,Percentage of increase in property value
+ESharAppW5,Amount paid to lender in addition to loan
+ERvReg1W5,Home reversion - one-off or regular payments
+ERvReg2W5,Home reversion - one-off or regular payments
+ERvSumW5,Amount of one-off payment from home reversion
+ERvSumBW5,Amount of the one-off payment
+ERvRecPDW5,Period that regular payments usually cover
+ERvRecW5,Monthly income from home reversion
+ERvRecBMW5,Regular payments received this period
+ERvRecBYW5,Received from scheme this period
+ERvTaxW5,Home reversion income - beforeafter tax
+ERvRentW5,Pay rent to remain in home after home reversion?
+ErvPrpW5,Percentage sold for home reversion
+EPrvPayW5,Any regular payments from other source
+EPrValW5,Amount usual regular payments from other source
+EPrPerW5,Period usual regular payments from other source
+EOthRegW5,Payment from other source for claim on property
+EOthRVaW5,Amount received for claim on property
+EOthRVBW5,Estimate received for a claim on property
+PRRepayW5,agreed repay of loan
+PRRepfixW5,Amount agreed to be paid to lender
+PRReppcW5,Percentage agreed to be paid to lender
+GCollecW5,Valuablescollectables owned in the household
+GCollVW5,Estimated market value of valuablescollectables
+GCollVbW5,Banded market value - valuablescollectables
+GContVbW5,Replacement value of household contents
+VCarNW5,Number of vehicles owned
+VType1W5,Type of vehicle
+VType2W5,Type of vehicle
+VType3W5,Type of vehicle
+VpersW5,Whether owns personalised or valuable number plates
+VPerVW5,Value of personalised number plates
+VOTyp1W5,Whether owns other type of vehicle
+VOTyp2W5,Whether owns other type of vehicle
+VOTyp3W5,Whether owns other type of vehicle
+VOTyp4W5,Whether owns other type of vehicle
+VOTpNW5,Number of vehicles
+VOTyOW5,Details of other vehicle
+VOValW5,"If sold, value in total of other vehicles"
+VOVlBW5,"If sold, value of other vehicles"
+VCarNw5_i,Number of vehicles owned
+VCarNw5_iflag,Imputation flag Number of vehicles owned
+VEstVTotalW5,Total value of vehicles
+VEstVTotalBW5,Banded market value of vehicle
+VEstVTotalBw5_i,Banded market value of vehicle/s
+VEstVTotalBw5_iflag,Imputed banded market value of vehicle/s
+VEstVTotalw5_i,Estimated total value of vehicles
+VEstVTotalw5_iflag,Imputed flag value of vehicles
+VTypew5_iflag,Imputed  flag type of vehicle
+VOTypw5_iflag,Imputation flag whether owns other type of vehicle
+VOVlBw5_i,"If sold, Banded value of other vehicles"
+VOVlBw5_iflag,"Imputation flag, Banded If sold, value of other vehicles"
+MNumbw5_i,Imputed total number of mortgages (new and old)
+MNumbw5_iflag,Imputed total number of mortgages (new and old) flag
+MAll1w5_i,Imputed Is mortgage an all-in-one account
+MAll1w5_iflag,Imputed Is mortgage an all-in-one account flag
+MAll2w5_i,Imputed Is mortgage an all-in-one account
+MAll2w5_iflag,Imputed Is mortgage an all-in-one account flag
+MAll3w5_i,Imputed Is mortgage an all-in-one account
+MAll3w5_iflag,Imputed Is mortgage an all-in-one account flag
+MAllTy1w5_i,Imputed type of all-in-one account mortgage
+MAllTy1w5_iflag,Imputed type of all-in-one account mortgage flag
+MAllTy2w5_i,Imputed type of all-in-one account mortgage
+MAllTy2w5_iflag,Imputed type of all-in-one account mortgage flag
+MVal1w5_i,Imputed Amount oustanding on mortgage or loan
+MVal1w5_iflag,Imputed Amount oustanding on mortgage or loan flag
+MVal2w5_i,Imputed Amount oustanding on mortgage or loan
+MVal2w5_iflag,Imputed Amount oustanding on mortgage or loan flag
+MVal3w5_i,Imputed Amount oustanding on mortgage or loan
+MVal3w5_iflag,Imputed Amount oustanding on mortgage or loan flag
+MNeg1w5_i,Imputed - Negative balance on all-in-one mortgage
+MNeg1w5_iflag,Imputed - Negative balance on all-in-one mortgage flag
+MNeg2w5_i,Imputed - Negative balance on all-in-one mortgage
+MNeg2w5_iflag,Imputed - Negative balance on all-in-one mortgage flag
+MNeg3w5_i,Imputed - Negative balance on all-in-one mortgage
+MNeg3w5_iflag,Imputed - Negative balance on all-in-one mortgage flag
+Ten1w5_i,Imputed tenure
+Ten1w5_iflag,Imputed flag
+HSharew5_i,Imputed whether shares ownership of main residence
+HSharew5_iflag,Imputed flag
+HSharePw5_i,Imputed shared percentage of main residence
+HSharePw5_iflag,Imputed flag
+equity_ynw5_i,Imputed If has equity release
+equity_ynw5_iflag,Imputed If has equity release flag
+eqtype1w5_i,Imputed Type of lifetime mortgage
+eqtype1w5_iflag,Imputed Type of lifetime mortgage flag
+eqtype2w5_i,Imputed Type of lifetime mortgage
+eqtype2w5_iflag,Imputed Type of lifetime mortgage flag
+eqdraww5_i,Imputed Did this mortgage have a drawdown element
+eqdraww5_iflag,Imputed Did this mortgage have a drawdown element flag
+eqvalbw5_i,Imputed Estimate of lifetime mortgage annuity
+eqvalbw5_iflag,Imputed Estimate of lifetime mortgage annuity flag
+eqvalw5_i,Imputed Amount of lifetime mortgage annuity
+eqvalw5_iflag,Imputed Amount of lifetime mortgage annuity flag
+eintw5_i,Imputed Do you pay interest on your mortgage
+eintw5_iflag,Imputed Do you pay interest on your mortgage flag
+eintratw5_i,Imputed Interest rate on lifetime mortgage annuity
+eintratw5_iflag,Imputed Interest rate on lifetime mortgage annuity flag
+ervprpw5_i,Imputed Percentage of property sold for home reversion scheme
+ervprpw5_iflag,Imputed Percentage of property sold for home reversion scheme flag
+prrepayw5_i,Imputed Did you agree how you will repay the loan
+prrepayw5_iflag,Imputed Did you agree how you will repay the loan flag
+prrepfixw5_i,Imputed How much did you agree to pay the lender
+prrepfixw5_iflag,Imputed How much did you agree to pay the lender flag
+prreppcw5_i,Imputed What percentage of the property value agreed to pay lender
+prreppcw5_iflag,Imputed What percentage of the property value agreed to pay lender flag
+mtype1w5_i,Imputed Type of mortgage loan
+mtype1w5_iflag,Imputed Type of mortgage loan flag
+mtype2w5_i,Imputed Type of mortgage loan
+mtype2w5_iflag,Imputed Type of mortgage loan flag
+mtype3w5_i,Imputed Type of mortgage loan
+mtype3w5_iflag,Imputed Type of mortgage loan flag
+mendw1W5_i,Imputed - Whether there is any endowment policies covering mortgage or loan
+mendw1W5_iflag,Imputed - Whether there is any endowment policies covering mortgage or loan flag
+mendw2w5_i,Imputed - Whether there is any endowment policies covering mortgage or loan
+mendw2w5_iflag,Imputed - Whether there is any endowment policies covering mortgage or loan flag
+mendw3w5_i,Imputed - Whether there is any endowment policies covering mortgage or loan
+mendw3w5_iflag,Imputed - Whether there is any endowment policies covering mortgage or loan flag
+mendnum1w5_i,Imputed no. of endowment policies covering mortgage or loan
+mendnum1w5_iflag,Imputed no. of endowment policies covering mortgage or loan flag
+mendnum2w5_i,Imputed no. of endowment policies covering mortgage or loan
+mendnum2w5_iflag,Imputed no. of endowment policies covering mortgage or loan flag
+mendnum3w5_i,Imputed no. of endowment policies covering mortgage or loan
+mendnum3w5_iflag,Imputed no. of endowment policies covering mortgage or loan flag
+mendvb1w5_i,Imputed Estimate of current value of endowment
+mendvb1w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb2w5_i,Imputed Estimate of current value of endowment
+mendvb2w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb3w5_i,Imputed Estimate of current value of endowment
+mendvb3w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb4w5_i,Imputed Estimate of current value of endowment
+mendvb4w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb5w5_i,Imputed Estimate of current value of endowment
+mendvb5w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb9w5_i,Imputed Estimate of current value of endowment
+mendvb9w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb6w5_i,Imputed Estimate of current value of endowment
+mendvb6w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb7w5_i,Imputed Estimate of current value of endowment
+mendvb7w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb8w5_i,Imputed Estimate of current value of endowment
+mendvb8w5_iflag,Imputed Estimate of current value of endowment flag
+mendvb11w5_i,Imputed Estimate of current value of endowment
+mendvb11w5_iflag,Imputed Estimate of current value of endowment flag
+mendv1w5_i,Imputed Current value of endowment
+mendv1w5_iflag,Imputed Current value of endowment flag
+mendv2w5_i,Imputed Current value of endowment
+mendv2w5_iflag,Imputed Current value of endowment flag
+mendv3w5_i,Imputed Current value of endowment
+mendv3w5_iflag,Imputed Current value of endowment flag
+mendv4w5_i,Imputed Current value of endowment
+mendv4w5_iflag,Imputed Current value of endowment flag
+mendv5w5_i,Imputed Current value of endowment
+mendv5w5_iflag,Imputed Current value of endowment flag
+mendv6w5_i,Imputed Current value of endowment
+mendv6w5_iflag,Imputed Current value of endowment flag
+mendv7w5_i,Imputed Current value of endowment
+mendv7w5_iflag,Imputed Current value of endowment flag
+mendv10w5_i,Imputed Current value of endowment
+mendv10w5_iflag,Imputed Current value of endowment flag
+mendv11w5_i,Imputed Current value of endowment
+mendv11w5_iflag,Imputed Current value of endowment flag
+HValuew5_i,Imputed expected current value of main residence
+HValuew5_iflag,Imputed flag
+DVHValuew5,Value of main residence
+TotMValw5,Value of repayment main res
+TotMNegw5,Value of all-in-one main res
+TotMortw5,Total mortgage on main residence
+DVEqRelValw5,Total value of equity release
+DVEqLTMw5,Lifetime Mortgage
+DVHoRPw5,Home reversion plan
+DVEqSRbw5,Sale and Rent back
+DVEqPrUnw5,"Private, unknown scheme"
+HMORTGw5,Value of all mortgages and amount owed
+AllEndWw5,All endowments
+HseTypeW5,Type of housebungalow
+VType1w5_i,Type of vehicle
+VType2w5_i,Type of vehicle
+VType3w5_i,Type of vehicle
+VPerSw5_i,Whether owns personalised or valuable number plate
+VPerSw5_iflag,Imputation flag whether owns personalised or valuable number plate
+VPerVw5_i,Value of personalised number plates
+VPerVw5_iflag,Imputation flag value of personalised number plates
+VOTyp1w5_i,Whether owns other type of vehicle
+VOTyp2w5_i,Whether owns other type of vehicle
+VOTyp3w5_i,Whether owns other type of vehicle
+VOTyp4w5_i,Whether owns other type of vehicle
+VOTyp5w5_i,Whether owns other type of vehicle
+VOValw5_i,"Imputation If sold, value of other vehicles"
+VOValw5_iflag,"Imputation flag, If sold, value of other vehicles"
+gcollecw5_i,Imputed valuables/collectables owned in the household
+gcollecw5_iflag,Imputed valuables/collectables owned in the hhold flag
+gcollvw5_i,Imputed estimated market value of valuables/collectables
+gcollvw5_iflag,Imputed estimated market value of valuables/collectables flag
+gcontvbw5_i,Imputed replacement value of household contents
+gcontvbw5_iflag,Imputed replacement value of household contents flag
+DVHseValw5_sum,Total value of other houses
+DVBltValw5_sum,Total value of buy to let houses
+DVBldValw5_sum,Total value of buildings
+DVLUKValw5_sum,Total value of UK land
+DVLOSValw5_sum,Total value of overseas land
+DVOPrValw5_sum,Total value of other property
+DVHseDebtw5_sum,Total debt houses not main residence
+DVBLtDebtw5_sum,Total debt buy to let houses
+DVBldDebtw5_sum,Total debt buildings
+DVLUKDebtw5_sum,Total debt UK land
+DVLOSDebtw5_sum,Total debt overseas land
+DVOPrDebtw5_sum,Total debt other property
+OthMortw5_sum,Total property debt
+HousGdsTW5_sum,Value of contents in second homes
+BuyLGdsTW5_sum,Value of contents in buy to let property
+HousGdsOSTW5_sum,Value of contents in Overseas property
+PhysHousGdsTW5_aggr,Whether has contents in second homes
+PhysBuyLGdsTW5_aggr,Whether has contents in buy to let property
+PhysHousGdsOSTW5_aggr,Whether has contents in Overseas property
+GContVlsW5,Value of household contents main property
+DVGCollVW5,Value of collectables and valuables
+AllGdW5,Value of all household goods and collectables
+DVHasCarW5,Whether owns a Car
+DVHasVanW5,Whether owns a Van
+DVHasMotBW5,Whether owns a Motorbike
+DVTotOthVehValW5,Total value of all other vehicles
+DVTotPerNPValW5,Total value of personalised number plates
+DVTotCarVanMotBValW5,"Total value of vehicles (cars, vans, motorbikes - excl number plates)"
+DVTotVehValW5,Total value of all vehicles
+HPHYSWW5,Total Physical Wealth
+DVPropertyw5,Sum of all property values
+HPROPWw5,Total property wealth
+DVErecGrossAnnualW5,Gross Annual Income from equity release lifetime mortgage
+DVErecNetAnnualW5,Net Annual Income from equity release lifetime mortgage
+DVERvrecGrossAnnualW5,Gross Annual Income from equity release home reversion scheme
+DVERvrecNetAnnualW5,Net Annual Income from equity release home reversion scheme
+DVCISAVw5_aggr,Hhold value of Cash ISA
+DVIISAVw5_aggr,Hhold value of Investment ISA
+DVKISAVw5_aggr,Hhold value of ISA type unknown
+DVFNSValw5_aggr,Hhold value of National Savings Product
+DVFShUKVw5_aggr,Hhold value of UK Shares
+DVInsVw5_aggr,Hhold value of Insurance Products
+DVFLfEnVw5_aggr,Hhold value of endowment or regular premium policy
+DVFLfSiVw5_aggr,Hhold value of single prem pol or invest bonds with life ins element
+DVFLfFSVw5_aggr,Hhold value of Friendly society tax-exempt savings plan
+DVFLfTEVw5_aggr,Hhold value of insurance policy that will pay lump sum
+DVFBondVw5_aggr,Hhold value of fixed term investment bonds
+DVFESHARESw5_aggr,Hhold value of Employee shares and options
+DVFEShavw5_aggr,Hhold value of Employee shares
+DVFEOptVw5_aggr,Hhold value of Employee options
+DVFCollVw5_aggr,Hhold value of Unit investment trusts
+DVFShOSVw5_aggr,Hhold value of Overseas shares
+DVFGltUKVw5_aggr,Hhold value of UK bonds or gilts
+DVFGltFOVw5_aggr,Hhold value of overseas bonds or gilts
+DVFInvOtVw5_aggr,Hhold value of other investments
+DVFInfValw5_aggr,Hhold value of informal financial assests
+DVFInfLVw5_aggr,Hhold value of money loaned to others (to be repaid)
+DVFInfVw5_aggr,Hhold value of money given to others to save on behalf
+DVISAValw5_aggr,Hhold value of all ISAs
+DVFFAssetsw5_aggr,Hhold value of Formal financial assests
+DVCACTvw5_aggr,Hhold value of childrens trust funds
+DVCASVVw5_aggr,Hhold value of others childrens savings
+DVCAValw5_aggr,Hhold value of current accounts
+DVCACrValw5_aggr,Hhold value of current accounts in credit
+DVCAOdValw5_aggr,Hhold value of current accounts overdrawn
+DVSaValw5_aggr,Hhold value of Savings Accounts
+TOTCCw5_aggr,Hhold value of Outstanding credit card balances
+TOTSCw5_aggr,Hhold value of Outstanding store card balances
+TotMow5_aggr,Hhold value of outstanding mail order accounts
+TotNslBnkw5_aggr,Hhold value of new student loans from bank - no repayments yet made
+TotNslCw5_aggr,Hhold value of new student loans from SLC - no repayments yet made
+TotOslbnkw5_aggr,Hhold value of student loans from bank
+TotOSLCw5_aggr,Hhold value of student loans from SLC
+TotSLBnkw5_aggr,Hhold value of all student loans from bank
+TotSLCw5_aggr,Hhold value of all student loans from SLC
+TotBillArrw5_aggr,Hhold value of all bills arrears
+TotHPArrw5_aggr,Hhold value of hire purchase arrears
+TotMOArrw5_aggr,Hhold value of mail order arrears
+TotLNArrw5_aggr,Hhold value of formal loan arrears
+TotDVNWFLNw5_aggr,Hhold value of new formal loans no repayments yet made
+TOTDVNWILNw5_aggr,Hhold value of new informal loans no repayments yet made
+TotArr_excMortw5_aggr,Hhold value of arrears (excl. mortgage arrears)
+HFINW_ExcENDWw5_aggr,"Hhold value of Gross financial wealth, excluding endowments"
+HFINWw5_sum,Gross Financial Wealth
+DVValDBTw5_aggr,Total hhold value of occupational defined benefit pensions
+DVValDCosw5_aggr,Total hhold value of occupational defined contribution pensions
+DVPAVCUVw5_aggr,Total hhold value of additional voluntary contributions (AVCs)
+DVPFDDVw5_aggr,Total hhold value of retained rights in personal pension
+DVPPValw5_aggr,Total hhold value of personal pensions
+TotLosw5_aggr,Hhold value of all loans
+TotNLosw5_aggr,Hhold value of all new loans - no repayments yet made
+TotFLNSw5_aggr,Hhold value of loans from friends and family
+TotHPw5_aggr,Hhold value of hire purchase agreements
+TotLNSw5_aggr,Hhold value of formal loans not including loans from student loan company
+HFINLw5_aggr,Hhold value of financial liabilities
+HFINWNTw5_sum,Net Financial Wealth
+DVSPenw5_aggr,Total hhold value of pension from former spouse of partner
+DVPInPValw5_aggr,Total hhold value of pensions in payment
+DVDBRWealthValw5_aggr,Total hhold value of retained rights in defined benefit pensions
+TOTPENw5_aggr,Total hhold pension value
+TotWlthW5,Total household wealth
+DVPFCurValw5_aggr,Total hhold value of retained rights in defined contribution pensions
+DVGISEW5_aggr,Household Total Annual Gross self employed income
+DVGIEMPW5_aggr,Household Total Annual Gross employee income
+DVBenefitAnnualw5_aggr,Household Annual amount total all benefits
+DVGIINVW5_aggr,Household Gross annual income from investments
+DVGrsRentAmtAnnualW5_aggr,Household Gross annual income from rent
+DVNISEW5_aggr,Household Total Annual Net self employed income
+DVNIEMPW5_aggr,Household Total Annual Net employee income
+DVNIINVW5_aggr,Household Net annual income from investments
+DVNetRentAmtAnnualW5_aggr,Household Net annual income from rent
+DVoiNrrAnnualW5_aggr,Household Net Annual Income from redundancy payments
+DVoiNgtAnnualW5_aggr,Household Net Annual Income from Government training schemes
+DVoiNegAnnualW5_aggr,Household Net Annual Income from Educational grants
+DVoiNfrAnnualW5_aggr,Household Net Annual Income from friends or relatives outside the hhold
+DVoiNmaAnnualW5_aggr,Household Net Annual Income from maintenance/alimony/separation allowance
+DVoiNroAnnualW5_aggr,Household Net Annual Income from royalties
+DVoiNopAnnualW5_aggr,Household Net Annual Income from occupational pensions from overseas
+DVoiGrrAnnualW5_aggr,Household Gross Annual Income from redundancy payments
+DVoiGgtAnnualW5_aggr,Household Gross Annual Income from Government training schemes
+DVoiGegAnnualW5_aggr,Household Gross Annual Income from Educational grants
+DVoiGfrAnnualW5_aggr,Household Gross Annual Income from friends or relatives outside the hhold
+DVoiGmaAnnualW5_aggr,Household Gross Annual Income from maintenance/alimony/separation allowance
+DVoiGroAnnualW5_aggr,Household Gross Annual Income from royalties
+DVoiGopAnnualW5_aggr,Household Gross Annual Income from occupational pensions from overseas
+DVGIothRW5_aggr,Household Gross Annual other (regular) income
+DVNIothRW5_aggr,Household Net Annual other (regular) income
+DVTotNIRW5,Household Net Annual (regular) income
+DVTotGIRW5,Household Gross Annual (regular) income
+DVGIPpenW5_aggr,Household Gross Annual income from occupational or private pensions
+DVNIPpenW5_aggr,Household Net Annual income from occupational or private pensions
+DVNIothIW5_aggr,Household Net Annual other (regular) income
+HRPDVAgeW5,Age of HRP or partner
+HRPDVAge9W5,Grouped age of HRP or partner
+HRPSexW5,Sex of HRP or partner
+HRPNSSEC3W5,Socio-economic classification of HRP or partner
+HRPDVILO3aW5,ILO employment status of HRP or partner
+HRPDVMrDfW5,Marital status of HRP or partner
+HRPEdAttn1W5,Whether HRP (or partner) has an educational qualifications
+HRPEdAttn2W5,Whether HRP (or partner) has any work related qualifications
+HRPEdAttn3W5,Highest qualification of HRP or partner
+HRPDVecactw5,Economic activity of HRP or partner
+HRPEthnicW5,Ethnicity of HRP or partner
+HRPIOut1W5,Individual outcome code for HRP
+HRPPartIOut1W5,Individual outcome code for HRP's partner
+LAW5,"Local Authority code, new format"
+LEAW5,Local Education Authority Code from NSPD
+URIndScW5,UrbanRural Indicator (Scotland) from NSPD
+URIndEWW5,UrbanRural Indicator (England and Wales) from NSPD
+SOA2W5,Lower Layer Super Output Area from NSPD
+SOA1W5,Output Area from NSPD
+WardC91W5,1991 Ward (Census Code range) from NSPD
+WardO91W5,1991 Ward (OGGS Code range) from NSPD
+Ward98W5,1998 ward from NSPD
+StatsWardW5,2005 Statistical Ward (England and Wales only)
+OACodeW5,Output Area from NSPD
+OAC_Supergroupw5,OAC Supergroup for w5
+OAC_Groupw5,OAC Group for w5
+OAC_Subgroupw5,OAC Subgroup for w5
+OfinalW5,Final say in big financial decisions
+NoUnitsW5,Number of family units
+DVHSizeW5,DVHSize
+GORW5,Wave 5 Government Office Region code
+CountryW5,Country (based on GOR)
+NumAdISwW5,NUMADISW
+NumAdultW5,Number of adults in household
+NumCh18W5,Number of children aged 18 or under
+NumChildW5,Number of children in household
+NumCivPtrW5,Number of Civil Partners
+NumCPartW5,Number of cohabiting partners
+NumDepChW5,Number of dependent children in household
+NumElChW5,Number of children eligible for a child trust fund
+NumHHldrW5,Number of householders
+NumMPartW5,Number of married partners
+NumNoElChW5,Number of children not eligible for a child trust fund
+HHoldTypeW5,Type of household
+HRPEdLevelW5,Education levvel of HRP or partner
+HHPPhys,Value of main house physical wealth shared amongst adults
+HHOwnF,Number of people in each household with accomodation in their name
+PhvalW5,Individual level main house asset
+PMValW5,Individual level main house debt (including equity release)
+PEValW5,Individual level endowment
