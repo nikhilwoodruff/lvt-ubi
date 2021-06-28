@@ -1,650 +1,650 @@
 ,0
-TotWlthW5,12646
-DVPropertyW5,5610
-TOTPENW5_aggr,5350
-HValuew5_i,4787
-DVHValueW5,4730
-HValueW5,4689
-HPropWW5,4505
-PhvalW5,3021
-DVPInPValW5_aggr,2465
-HPriceW5,2044
-DVValDBTW5_aggr,1724
-HFINWW5_SUM,1668
-HFINW_excENDWW5_aggr,1652
-HFINWNTW5_Sum,1618
-DVFFAssetsW5_aggr,1609
-HphysWW5,1229
-dvtotgirW5,1116
-HMortGW5,1110
-AllgdW5,1019
-GContvlsW5,934
-TotmortW5,905
-DVTotNIRW5,888
+Total household wealth,12646
+Sum of all property values,5610
+Total hhold pension value,5350
+Imputed expected current value of main residence,4787
+Value of main residence,4730
+Expected current value of main res,4689
+Total property wealth,4505
+Individual level main house asset,3021
+Total hhold value of pensions in payment,2465
+Price paid for all or share of main res,2044
+Total hhold value of occupational defined benefit pensions,1724
+Gross Financial Wealth,1668
+"Hhold value of Gross financial wealth, excluding endowments",1652
+Net Financial Wealth,1618
+Hhold value of Formal financial assests,1609
+Total Physical Wealth,1229
+Household Gross Annual (regular) income,1116
+Value of all mortgages and amount owed,1110
+Value of all household goods and collectables,1019
+Value of household contents main property,934
+Total mortgage on main residence,905
+Household Net Annual (regular) income,888
 OthpropvalW5_sum,880
-TOTMvalW5,858
-MVal1w5_i,840
-MVal1W5,816
+Value of repayment main res,858
+Imputed Amount oustanding on mortgage or loan,840
+Amount still outstanding mortgageloan,816
 netequincannW5,808
-DVGIEMPw5_AGGR,713
-HHPPhys,657
-PMValW5,556
-DVNIEMPw5_aggr,522
-DVDBRWealthValW5_aggr,499
-DVBltValW5_sum,434
-DVISAValW5_aggr,390
-DVSaValW5_aggr,353
-DVFShUKVW5_aggr,250
-CASEW5,238
-DVPPValw5_aggr,222
-DVHseValW5_sum,222
-DVCISAVW5_aggr,214
-DvtotvehvalW5,210
-DVValDCOSW5_aggr,203
-OthMortW5_sum,198
-DVTotCarVanMotBValW5,190
-VEstVTotalw5_i,190
-VEstVTotalW5,187
-CASEW4,186
-DVPFCurValW5_aggr,178
-DVIISAVW5_aggr,173
-DVBenefitAnnualw5_aggr,158
-DVNIothIW5_aggr,146
-CASEW3,142
-DVCaCrValW5_aggr,142
-CaseW1,142
-DVCAValW5_aggr,141
-DVBLtDebtW5_sum,140
-DVFBondVW5_aggr,116
-DVFCollVW5_aggr,109
-HFINLW5_aggr,107
-DVGIPPENw5_AGGR,97
-DVLOSValW5_sum,94
-CaseW2,93
-DVNIPpenw5_aggr,88
-DVLUKValW5_sum,77
-DVFESHARESW5_aggr,76
+Household Total Annual Gross employee income,713
+Value of main house physical wealth shared amongst adults,657
+Individual level main house debt (including equity release),556
+Household Total Annual Net employee income,522
+Total hhold value of retained rights in defined benefit pensions,499
+Total value of buy to let houses,434
+Hhold value of all ISAs,390
+Hhold value of Savings Accounts,353
+Hhold value of UK Shares,250
+Anonymised case for W5,238
+Total hhold value of personal pensions,222
+Total value of other houses,222
+Hhold value of Cash ISA,214
+Total value of all vehicles,210
+Total hhold value of occupational defined contribution pensions,203
+Total property debt,198
+"Total value of vehicles (cars, vans, motorbikes - excl number plates)",190
+Estimated total value of vehicles,190
+Total value of vehicles,187
+Anonymised case for W4,186
+Total hhold value of retained rights in defined contribution pensions,178
+Hhold value of Investment ISA,173
+Household Annual amount total all benefits,158
+Household Net Annual other (regular) income,146
+Anonymised case for W3,142
+Hhold value of current accounts in credit,142
+Anonymised case for W1,142
+Hhold value of current accounts,141
+Total debt buy to let houses,140
+Hhold value of fixed term investment bonds,116
+Hhold value of Unit investment trusts,109
+Hhold value of financial liabilities,107
+Household Gross Annual income from occupational or private pensions,97
+Total value of overseas land,94
+Anonymised case for W2,93
+Household Net Annual income from occupational or private pensions,88
+Total value of UK land,77
+Hhold value of Employee shares and options,76
 HHNetIncMthW5,74
-DVGISEw5_AGGR,74
-DVFEShavW5_aggr,68
-DVFNSValW5_aggr,62
-DVNISEw5_aggr,59
+Household Total Annual Gross self employed income,74
+Hhold value of Employee shares,68
+Hhold value of National Savings Product,62
+Household Total Annual Net self employed income,59
 Tot_LosW5_aggr,58
-w5xshhwgt,56
-DVInsVW5_aggr,53
-YearW5,51
-DVBLDValW5_sum,50
-gcollvw5_i,47
-DVGcollVW5,47
-TOTMNEGW5,46
-MNeg1w5_i,46
-GCollVW5,45
-MNeg1W5,43
-DVGIINVw5_aggr,42
-DVSPenW5_aggr,40
-DVHseDebtW5_sum,39
-Yearw4,37
+W5 cross-sectional hh weight,56
+Hhold value of Insurance Products,53
+Year W5,51
+Total value of buildings,50
+Imputed estimated market value of valuables/collectables,47
+Value of collectables and valuables,47
+Value of all-in-one main res,46
+Imputed - Negative balance on all-in-one mortgage,46
+Estimated market value of valuablescollectables,45
+Amount negative balanceoverdraft current account,43
+Household Gross annual income from investments,42
+Total hhold value of pension from former spouse of partner,40
+Total debt houses not main residence,39
+Year W4,37
 Tot_los_exc_SLCW5_aggr,34
-DVFLfEnVW5_aggr,34
-DVGIothRw5_aggr,33
-DVNIINVw5_aggr,32
+Hhold value of endowment or regular premium policy,34
+Household Gross Annual other (regular) income,33
+Household Net annual income from investments,32
 T_LNSW5_aggr,30
-DVNIothRw5_aggr,30
-yearW3,27
-DVFShOSVW5_aggr,25
-DVGrsRentAmtAnnualw5_aggr,25
+Household Net Annual other (regular) income,30
+Year W3,27
+Hhold value of Overseas shares,25
+Household Gross annual income from rent,25
 T_SLNSW5_aggr,25
-DVFInfValW5_aggr,24
-DVNetRentAmtAnnualw5_aggr,22
+Hhold value of informal financial assests,24
+Household Net annual income from rent,22
 CTAmtW5,21
-DVFInvOtVW5_aggr,21
-HBuyYrW5,21
-TOTCCw5_aggr,21
-TOTHPW5_aggr,20
-YearW2,19
-YearW1,19
-DVFInfLVW5_aggr,18
-MVal2w5_i,17
-DVTotOthVehValW5,17
-VOValw5_i,17
-VOValW5,17
-MVal2W5,16
-BuyLGdsTW5_sum,16
-AllEndWW5,15
-mendv1w5_i,14
-HousGdsTW5_sum,13
-MEndv1W5,12
-DVPFDDVW5_aggr,12
-DVLOSDebtW5_sum,11
-DVCasvvW5_aggr,11
-DVFLfTEVW5_aggr,11
-DVFGltUKVW5_aggr,10
-PEValW5,9
-DVFEOptVW5_aggr,9
-HousGdsOSTW5_sum,8
-DVCACTvW5_aggr,8
-DVPAVCUVW5_aggr,8
-DVFLfSiVW5_aggr,7
-DVEqRelValW5,7
-DVFInfVW5_aggr,6
-DVCAOdValW5_aggr,5
-DVBldDebtW5_sum,4
-eqvalw5_i,4
-DVEqLTMW5,4
-EqValW5,4
+Hhold value of other investments,21
+Year bought main residence,21
+Hhold value of Outstanding credit card balances,21
+Hhold value of hire purchase agreements,20
+Year W2,19
+Year W1,19
+Hhold value of money loaned to others (to be repaid),18
+Imputed Amount oustanding on mortgage or loan,17
+Total value of all other vehicles,17
+"Imputation If sold, value of other vehicles",17
+"If sold, value in total of other vehicles",17
+Amount still outstanding mortgageloan,16
+Value of contents in buy to let property,16
+All endowments,15
+Imputed Current value of endowment,14
+Value of contents in second homes,13
+Value of endowment,12
+Total hhold value of retained rights in personal pension,12
+Total debt overseas land,11
+Hhold value of others childrens savings,11
+Hhold value of insurance policy that will pay lump sum,11
+Hhold value of UK bonds or gilts,10
+Individual level endowment,9
+Hhold value of Employee options,9
+Value of contents in Overseas property,8
+Hhold value of childrens trust funds,8
+Total hhold value of additional voluntary contributions (AVCs),8
+Hhold value of single prem pol or invest bonds with life ins element,7
+Total value of equity release,7
+Hhold value of money given to others to save on behalf,6
+Hhold value of current accounts overdrawn,5
+Total debt buildings,4
+Imputed Amount of lifetime mortgage annuity,4
+Lifetime Mortgage,4
+Amount of lifetime mortgageannuity,4
 HHtotRepW5_sum,4
-HAgeYrW5,4
+Year built main res if 1985 or later,4
 T_bslnW5_aggr,4
 RentAmountW5,3
 T_FLNSW5_aggr,3
-HOutW5,3
-MPayM1W5,3
-EqValDrW5,3
-DVTotPerNPValW5,3
-VPerVw5_i,3
-DVKISAVW5_aggr,3
-VPerVW5,3
-DVEqPrUnW5,2
-DVOPrValW5_sum,2
+Wave 5 Household outcome code,3
+Total monthly repayments for mortgage,3
+Amount of lifetime mortgageannuity,3
+Total value of personalised number plates,3
+Value of personalised number plates,3
+Hhold value of ISA type unknown,3
+Value of personalised number plates,3
+"Private, unknown scheme",2
+Total value of other property,2
 HOutw4,2
-DVLUKDebtW5_sum,2
-DVoiNegAnnualw5_aggr,2
-DVoiGegAnnualw5_aggr,2
-DVoiGmaAnnualw5_aggr,2
-DVoiNmaAnnualw5_aggr,2
-TotArr_excMortW5_aggr,2
-DVoiNrrAnnualw5_aggr,2
-DVoiGrrAnnualw5_aggr,2
-MArrsV2W5,2
+Total debt UK land,2
+Household Net Annual Income from Educational grants,2
+Household Gross Annual Income from Educational grants,2
+Household Gross Annual Income from maintenance/alimony/separation allowance,2
+Household Net Annual Income from maintenance/alimony/separation allowance,2
+Hhold value of arrears (excl. mortgage arrears),2
+Household Net Annual Income from redundancy payments,2
+Household Gross Annual Income from redundancy payments,2
+Amount owed on missedoverdue payments,2
 HOutW3,2
-TOTBillArrW5_aggr,1
-MVal3w5_i,1
-MVal3W5,1
+Hhold value of all bills arrears,1
+Imputed Amount oustanding on mortgage or loan,1
+Amount still outstanding mortgageloan,1
 CTaxRedAmtW5,1
-mendv2w5_i,1
-DVoiNfrAnnualw5_aggr,1
-DVoiGfrAnnualw5_aggr,1
+Imputed Current value of endowment,1
+Household Net Annual Income from friends or relatives outside the hhold,1
+Household Gross Annual Income from friends or relatives outside the hhold,1
 HOutW2,1
 HOutW1,1
-MEndv2W5,1
-TOTMOW5_aggr,1
-EOthRVaW5,1
-DVoiNopAnnualw5_aggr,1
-DVoiGopAnnualw5_aggr,1
-DVHoRPW5,1
-prrepfixw5_i,1
-DVFGltFOVW5_aggr,1
-DVFLfFSVW5_aggr,1
-TOTSCw5_aggr,1
-PRRepfixW5,0
-ESharAppW5,0
-DVOPrDebtW5_sum,0
-MNeg2w5_i,0
-FRRepfixW5,0
-DVoiNroAnnualw5_aggr,0
-DVoiGroAnnualw5_aggr,0
-ERvSumW5,0
-EqWhenYW5,0
-MNeg2W5,0
-TOTLnArrW5_aggr,0
-GORW5,0
-MonthW5,0
-HRPNSSEC3W5,0
+Value of endowment,1
+Hhold value of outstanding mail order accounts,1
+Amount received for claim on property,1
+Household Net Annual Income from occupational pensions from overseas,1
+Household Gross Annual Income from occupational pensions from overseas,1
+Home reversion plan,1
+Imputed How much did you agree to pay the lender,1
+Hhold value of overseas bonds or gilts,1
+Hhold value of Friendly society tax-exempt savings plan,1
+Hhold value of Outstanding store card balances,1
+Amount agreed to be paid to lender,0
+Amount paid to lender in addition to loan,0
+Total debt other property,0
+Imputed - Negative balance on all-in-one mortgage,0
+Fixed amount agreed to pay for the loan,0
+Household Net Annual Income from royalties,0
+Household Gross Annual Income from royalties,0
+Amount of one-off payment from home reversion,0
+Year lifetime mortgageannuity taken out,0
+Amount negative balanceoverdraft current account,0
+Hhold value of formal loan arrears,0
+Wave 5 Government Office Region code,0
+Month W5,0
+Socio-economic classification of HRP or partner,0
 HRPDVAge8W5,0
-VOTyp1w5_i,0
-VOTyp1W5,0
-MArrsV1W5,0
+Whether owns other type of vehicle,0
+Whether owns other type of vehicle,0
+Amount owed on missedoverdue payments,0
 MYLft1w5_i,0
-MYLft1W5,0
-MonthW4,0
-HHoldTypeW5,0
-gcontvbw5_i,0
-GContVbW5,0
-mendv6w5_i,0
-mendv3w5_i,0
-MEndv3W5,0
-HRPDVecactW5,0
-Hext1W5,0
+Years left to run on mortgage,0
+Month W4,0
+Type of household,0
+Imputed replacement value of household contents,0
+Replacement value of household contents,0
+Imputed Current value of endowment,0
+Imputed Current value of endowment,0
+Value of endowment,0
+Economic activity of HRP or partner,0
+How extended property,0
 CTTimeW5,0
-monthW3,0
-MReas01W5,0
-HBedrmw5,0
-MEndv6W5,0
-DVHSizeW5,0
-Ten1w5_i,0
-Ten1W5,0
-MonthW1,0
-MonthW2,0
-HRPDVMrDfW5,0
-VEstVTotalBw5_i,0
-HRPEdLevelW5,0
-EPrValW5,0
-NumAdultW5,0
-gcollecw5_i,0
-GCollecW5,0
-MPayM2W5,0
-DVPriRntW5,0
-HRPDVILO3aW5,0
-HseTypeW5,0
-DVERvrecNetAnnualw5,0
-MEndv4W5,0
-mendv4w5_i,0
-HHOwnF,0
-NumHHldrW5,0
-OfinalW5,0
-VpersW5,0
-VPerSw5_i,0
-HBFromW5,0
-HRPSexW5,0
-HRPEdAttn2W5,0
-HRPEdAttn3W5,0
-Equity_YNw5_i,0
-EqYesW5,0
-HSharew5_i,0
-HShareW5,0
+Month W3,0
+Reasons why mortgage taken out,0
+Number of bedrooms,0
+Value of endowment,0
+DVHSize,0
+Imputed tenure,0
+Tenure,0
+Month W1,0
+Month W2,0
+Marital status of HRP or partner,0
+Banded market value of vehicle/s,0
+Education levvel of HRP or partner,0
+Amount usual regular payments from other source,0
+Number of adults in household,0
+Imputed valuables/collectables owned in the household,0
+Valuablescollectables owned in the household,0
+Total monthly repayments for mortgage,0
+DV private renting household,0
+ILO employment status of HRP or partner,0
+Type of housebungalow,0
+Net Annual Income from equity release home reversion scheme,0
+Value of endowment,0
+Imputed Current value of endowment,0
+Number of people in each household with accomodation in their name,0
+Number of householders,0
+Final say in big financial decisions,0
+Whether owns personalised or valuable number plates,0
+Whether owns personalised or valuable number plate,0
+Who bought main res from,0
+Sex of HRP or partner,0
+Whether HRP (or partner) has any work related qualifications,0
+Highest qualification of HRP or partner,0
+Imputed If has equity release,0
+Raised incomecapital from current home,0
+Imputed whether shares ownership of main residence,0
+Whether shares ownership of main res,0
 CTInstalW5,0
 RentPeriodW5,0
-LLordW5,0
-HRPEdAttn1W5,0
-VCarNw5_i,0
-VCarNW5,0
-HAgeBW5,0
-AccomW5,0
-HHOSchW5,0
-MEndv5W5,0
-mendv5w5_i,0
-HRTBevW5,0
+Landlord,0
+Whether HRP (or partner) has an educational qualifications,0
+Number of vehicles owned,0
+Number of vehicles owned,0
+When was main res built,0
+Type of accommodation,0
+Ever bought thru assisted home ownership scheme,0
+Value of endowment,0
+Imputed Current value of endowment,0
+Ever bought home from LA under RTB,0
 INEQUIVW5,0
-NoUnitsW5,0
-VOTpNW5,0
-HRPIOut1W5,0
-NumMPartW5,0
-HSharePW5,0
-HSharePw5_i,0
-FurnW5,0
+Number of family units,0
+Number of vehicles,0
+Individual outcome code for HRP,0
+Number of married partners,0
+Shared percentage of main residence,0
+Imputed shared percentage of main residence,0
+If furnished,0
 CTaxRedW5,0
-DVErecNetAnnualw5,0
-MInc1W5,0
-mtype1w5_i,0
-MType1W5,0
-HBuySeW5,0
-DBurdHW5,0
-VType1w5_i,0
-VType1W5,0
+Net Annual Income from equity release lifetime mortgage,0
+What is included in repayments,0
+Imputed Type of mortgage loan,0
+Type of mortgage,0
+Season/quarter main rsidence bought,0
+Burden of mortgage and other debt on household,0
+Type of vehicle,0
+Type of vehicle,0
 ineqfac_sumW5,0
-TOTHPArrW5_aggr,0
-DVHasCarW5,0
-TiedW5,0
-MArr2Yr1W5,0
-MAll1w5_i,0
-MAll1W5,0
-HRPPartIOut1W5,0
-TOTMOArrW5_aggr,0
-NumAdISwW5,0
-MPastSPA1W5,0
-MName1W5,0
-NumCh18W5,0
-NumDepChW5,0
-MJname02W5,0
-HHownW5,0
+Hhold value of hire purchase arrears,0
+Whether owns a Car,0
+Accomm tied to job,0
+Whether fallen behind with loan repayments,0
+Imputed Is mortgage an all-in-one account,0
+All-in-one account?,0
+Individual outcome code for HRP's partner,0
+Hhold value of mail order arrears,0
+NUMADISW,0
+Expect to continue mortgage beyond SPA?,0
+In whose name is the mortgage held?,0
+Number of children aged 18 or under,0
+Number of dependent children in household,0
+Person(s) joint mortgage or loan holder,0
+How became owner of main residence,0
 mendv8w5_i,0
-NumChildW5,0
-VOVlBw5_i,0
-MIntRate1W5,0
-MChgeW5,0
-MExtnW5,0
-MNumbw5_i,0
-MNumbW5,0
-MHowPy1W5,0
-MArrs1W5,0
-MNumbw5_iflag,0
-MReas02W5,0
-MPayM3W5,0
-MJname01W5,0
-NumNoElChW5,0
-MPP1W5,0
-MW2Chk1W5,0
-MEndv11W5,0
-mendv11w5_i,0
-DVErecGrossAnnualw5,0
-NumElChW5,0
-MNumbOW5,0
-MIntFix1W5,0
-FltTypW5,0
+Number of children in household,0
+"If sold, Banded value of other vehicles",0
+Interest rate on mortgage,0
+New mortgages on property in last two years?,0
+Increased borrowing?,0
+Imputed total number of mortgages (new and old),0
+Number of mortgages/loans,0
+How mortgage is paid,0
+Status of repayments on this mortgage,0
+Imputed total number of mortgages (new and old) flag,0
+Reasons why mortgage taken out,0
+Total monthly repayments for mortgage,0
+Person(s) joint mortgage or loan holder,0
+Number of children not eligible for a child trust fund,0
+Whether has mortgage protection policy,0
+Still have this mortgage,0
+Value of endowment,0
+Imputed Current value of endowment,0
+Gross Annual Income from equity release lifetime mortgage,0
+Number of children eligible for a child trust fund,0
+Number outstanding mortgages on property,0
+Whether interest fixed amount or variable rate for mortgage 1,0
+Type of flatmaisonette,0
 MYLft2w5_i,0
-MYLft2W5,0
-NumCPartW5,0
-mendv7w5_i,0
-MReas12W5,0
-MIntPaid1W5,0
-VType2W5,0
-VType2w5_i,0
-MOname1W5,0
-MYPastSPA1W5,0
+Years left to run on mortgage,0
+Number of cohabiting partners,0
+Imputed Current value of endowment,0
+Reasons why mortgage taken out,0
+Interest paid on mortgage?,0
+Type of vehicle,0
+Type of vehicle,0
+Person sole mortgage loan holder,0
+Years mortgage expected to run past SPA,0
 AnyotherpropW5_Aggr,0
-VOTyp2w5_i,0
-VOTyp2W5,0
+Whether owns other type of vehicle,0
+Whether owns other type of vehicle,0
 HHdebtIncRatW5,0
-MNumbNW5,0
-mendw1w5_i,0
-MEndw1W5,0
-DVoiNgtAnnualw5_aggr,0
-DVoiGgtAnnualw5_aggr,0
-MArrCl01W5,0
+Number mortgages or loans on property,0
+Imputed - Whether there is any endowment policies covering mortgage or loan,0
+Endowment policies secured on property,0
+Household Net Annual Income from Government training schemes,0
+Household Gross Annual Income from Government training schemes,0
+How arrears for mortgage 1 were cleared,0
 HHDBurdHvW5,0
-MEndy1W5,0
-MinvW1W5,0
-HValBW5,0
+When will endowment pay out,0
+Whether has any linked investments,0
+Estimated value of  main residence,0
 HHTotRepIncRatW5,0
 dar2plus_numW5,0
 HHar2plusW5,0
-MExtRs1W5,0
-mendvb1w5_i,0
+Reason for extra borrowing,0
+Imputed Estimate of current value of endowment,0
 HHPDW5,0
 PropOthMortW5_Aggr,0
 PropDVBltValW5_Aggr,0
 HHHb2plusW5,0
 dhb2plus_numW5,0
-MAllTy1w5_i,0
-MAllty1W5,0
-MInc6W5,0
-mtype2w5_i,0
-MType2W5,0
+Imputed type of all-in-one account mortgage,0
+Type of all-in-one account mortgage,0
+What is included in repayments,0
+Imputed Type of mortgage loan,0
+Type of mortgage,0
 HHBillonlyw5,0
 billcredkeepno_NumW5,0
 PropDVHseValW5_Aggr,0
 HHPDSolvW5,0
-MReas03W5,0
-MValB1W5,0
-DVHasVanW5,0
-DVHasMotBW5,0
-PhysBuyLGdsTW5_aggr,0
+Reasons why mortgage taken out,0
+Banded amount outstanding on mortgageloan,0
+Whether owns a Van,0
+Whether owns a Motorbike,0
+Whether has contents in buy to let property,0
 HHBillCredNoW5,0
 PropDVBLtDebtW5_Aggr,0
-MAll2w5_i,0
-MArr2Yr2W5,0
-MAll2W5,0
-eqtype1w5_i,0
-MJname19W5,0
-MPastSPA2W5,0
+Imputed Is mortgage an all-in-one account,0
+Whether fallen behind with loan repayments,0
+All-in-one account?,0
+Imputed Type of lifetime mortgage,0
+Person(s) joint mortgage or loan holder,0
+Expect to continue mortgage beyond SPA?,0
 HHPDSolvonlyW5,0
-MName2W5,0
+In whose name is the mortgage held?,0
 MYLft3w5_i,0
-EqType1W5,0
+Type(s) of lifetime mortgage,0
 PropDVLOSValW5_Aggr,0
-PhysHousGdsTW5_aggr,0
-MInc2W5,0
-MReas23W5,0
-EqWhenMW5,0
+Whether has contents in second homes,0
+What is included in repayments,0
+Reasons why mortgage taken out,0
+Month lifetime mortgageannuity taken out,0
 HHPDliqW5,0
-MYLft3W5,0
-VEstVTotalBW5,0
-Hext2W5,0
-MIntRate2W5,0
-ervprpw5_i,0
-ErvPrpW5,0
-MEndx1W5,0
-PhysHousGdsOSTW5_aggr,0
-HPriceBW5,0
-MReas13W5,0
-MHowPy2W5,0
-MArrs2W5,0
+Years left to run on mortgage,0
+Banded market value of vehicle,0
+How extended property,0
+Interest rate on mortgage,0
+Imputed Percentage of property sold for home reversion scheme,0
+Percentage sold for home reversion,0
+How much of mortgage 1 endowment(s) expected to pay off,0
+Whether has contents in Overseas property,0
+Estimate of price paid for all or share of main res,0
+Reasons why mortgage taken out,0
+How mortgage is paid,0
+Status of repayments on this mortgage,0
 darcr2plus_numW5,0
-mendnum1w5_i,0
-Mendnum1W5,0
+Imputed no. of endowment policies covering mortgage or loan,0
+Number endowments covering mortgageloan,0
 HHPDliqonlyW5,0
 PropDVHseDebtW5_Aggr,0
-MJname18W5,0
-MW2Chk2W5,0
-VType3w5_i,0
-VType3W5,0
+Person(s) joint mortgage or loan holder,0
+Still have this mortgage,0
+Type of vehicle,0
+Type of vehicle,0
 HHArcr2plusW5,0
-MPP2W5,0
-prreppcw5_i,0
-eqvalbw5_i,0
+Whether has mortgage protection policy,0
+Imputed What percentage of the property value agreed to pay lender,0
+Imputed Estimate of lifetime mortgage annuity,0
 MYLft1w5_iflag,0
-VOTyp3W5,0
-VOTyp3w5_i,0
-MVal1w5_iflag,0
-MIntFix2W5,0
-VEstVTotalw5_iflag,0
-GCollVbW5,0
-eintratw5_i,0
-ERecW5,0
+Whether owns other type of vehicle,0
+Whether owns other type of vehicle,0
+Imputed Amount oustanding on mortgage or loan flag,0
+Whether interest fixed amount or variable rate for mortgage 2,0
+Imputed flag value of vehicles,0
+Banded market value - valuablescollectables,0
+Imputed Interest rate on lifetime mortgage annuity,0
+Regular payments received from scheme?,0
 erecw5_i,0
-MReas04W5,0
-MInc3W5,0
+Reasons why mortgage taken out,0
+What is included in repayments,0
 HHCronlyw5,0
-MEndy2W5,0
+When will endowment pay out,0
 HHPDLiqsolvW5,0
 PropDVLUKValW5_Aggr,0
-MEndVb1W5,0
-MIntPaid2W5,0
-MArrCl02W5,0
-gcollvw5_iflag,0
-PRReppcW5,0
-MPayB1W5,0
-eqdraww5_i,0
-EqDrawW5,0
-MChgeNumW5,0
+Closest value of endowment,0
+Interest paid on mortgage?,0
+How arrears for mortgage 1 were cleared,0
+Imputed estimated market value of valuables/collectables flag,0
+Percentage agreed to be paid to lender,0
+Banded value monthly repayment on mortgage,0
+Imputed Did this mortgage have a drawdown element,0
+Did this mortgage have a drawdown element,0
+Number mortgages taken out in last two years,0
 PropDVLOSDebtW5_Aggr,0
-MInc11W5,0
+What is included in repayments,0
 PropDVBlDValW5_Aggr,0
-BridLn1W5,0
-VOValw5_iflag,0
-MNegB1W5,0
-EIntRatW5,0
-MJname36W5,0
-mtype3w5_i,0
-mendvb2w5_i,0
-MArrsV3W5,0
-MType3W5,0
-MEndw2W5,0
-Hext3W5,0
-mendw2w5_i,0
-EqOldW5,0
-MJname03W5,0
-MEndy3W5,0
-AccOthW5,0
-MAll3w5_i,0
-NumCivPtrW5,0
-MOname2W5,0
-MAll3W5,0
-MArr2Yr3W5,0
-MName3W5,0
-EIntW5,0
-eintw5_i,0
-VOVlBw5_iflag,0
-MPastSPA3W5,0
-prrepayw5_i,0
-MExtRs2W5,0
-EPrvPayW5,0
-MPolicy1W5,0
-PRRepayW5,0
-gcontvbw5_iflag,0
-VEstVTotalBw5_iflag,0
-MinvW2W5,0
-VPerVw5_iflag,0
-MReas06W5,0
-EqNewW5,0
-MReas07W5,0
-EMSPayW5,0
-MIntRate3W5,0
-mtype1w5_iflag,0
-MAll1w5_iflag,0
-MReas05W5,0
-MHowPy3W5,0
-MYPastSPA2W5,0
-BridLn2W5,0
-EOthRegW5,0
-EIntFixW5,0
-MArrs3W5,0
-MPP3W5,0
-MNeg1w5_iflag,0
-MReas24W5,0
-EPrPerW5,0
-VOVlBW5,0
-MW2Chk3W5,0
-MValB2W5,0
-MJname35W5,0
-mendv1w5_iflag,0
-MArrCl12W5,0
-Hext4W5,0
-MIntFix3W5,0
-MYIfCh1W5,0
+Type of loan on property (mortgage 1),0
+"Imputation flag, If sold, value of other vehicles",0
+Banded amount negative balanceoverdraft current account,0
+Interest rate on lifetime mortgageannuity,0
+Person(s) joint mortgage or loan holder,0
+Imputed Type of mortgage loan,0
+Imputed Estimate of current value of endowment,0
+Amount owed on missedoverdue payments,0
+Type of mortgage,0
+Endowment policies secured on property,0
+How extended property,0
+Imputed - Whether there is any endowment policies covering mortgage or loan,0
+Old equity release arrangement,0
+Person(s) joint mortgage or loan holder,0
+When will endowment pay out,0
+Other types of accommodation,0
+Imputed Is mortgage an all-in-one account,0
+Number of Civil Partners,0
+Person sole mortgage loan holder,0
+All-in-one account?,0
+Whether fallen behind with loan repayments,0
+In whose name is the mortgage held?,0
+Interest paid on mortgage?,0
+Imputed Do you pay interest on your mortgage,0
+"Imputation flag, Banded If sold, value of other vehicles",0
+Expect to continue mortgage beyond SPA?,0
+Imputed Did you agree how you will repay the loan,0
+Reason for extra borrowing,0
+Any regular payments from other source,0
+Amount of mortgage 1 expects investment policies to pay off,0
+agreed repay of loan,0
+Imputed replacement value of household contents flag,0
+Imputed banded market value of vehicle/s,0
+Whether has any linked investments,0
+Imputation flag value of personalised number plates,0
+Reasons why mortgage taken out,0
+New equity release arrangement,0
+Reasons why mortgage taken out,0
+Missed any interest repayments,0
+Interest rate on mortgage,0
+Imputed Type of mortgage loan flag,0
+Imputed Is mortgage an all-in-one account flag,0
+Reasons why mortgage taken out,0
+How mortgage is paid,0
+Years mortgage expected to run past SPA,0
+Type of loan on property (mortgage 2),0
+Payment from other source for claim on property,0
+Interest payable as fixed amount or variable rate?,0
+Status of repayments on this mortgage,0
+Whether has mortgage protection policy,0
+Imputed - Negative balance on all-in-one mortgage flag,0
+Reasons why mortgage taken out,0
+Period usual regular payments from other source,0
+"If sold, value of other vehicles",0
+Still have this mortgage,0
+Banded amount outstanding on mortgageloan,0
+Person(s) joint mortgage or loan holder,0
+Imputed Current value of endowment flag,0
+How arrears for mortgage 2 were cleared,0
+How extended property,0
+Whether interest fixed amount or variable rate for mortgage 3,0
+Extended length of mortgage last two years?,0
 MYLft2w5_iflag,0
-MIntPaid3W5,0
+Interest paid on mortgage?,0
 PropDVBldDebtW5_Aggr,0
-MInc4W5,0
-EqValDrBW5,0
-MVal2w5_iflag,0
+What is included in repayments,0
+Total drawn down so far,0
+Imputed Amount oustanding on mortgage or loan flag,0
 PropDVLUKDebtW5_Aggr,0
 PropDVOPrValW5_Aggr,0
-ERvRentW5,0
-MAllty2W5,0
-MAllTy2w5_i,0
-eintratw5_iflag,0
-MAllTy1w5_iflag,0
-mendw1w5_iflag,0
-MExtRs3W5,0
-MEndy11W5,0
-MEndw3W5,0
-mendw3w5_i,0
-mendvb3w5_i,0
-Equity_YNw5_iflag,0
-VOTyp4W5,0
-VOTyp4w5_i,0
-MEndy6W5,0
-MJname04W5,0
-MYPastSPA3W5,0
-mendvb6w5_i,0
-MPayB2W5,0
+Pay rent to remain in home after home reversion?,0
+Type of all-in-one account mortgage,0
+Imputed type of all-in-one account mortgage,0
+Imputed Interest rate on lifetime mortgage annuity flag,0
+Imputed type of all-in-one account mortgage flag,0
+Imputed - Whether there is any endowment policies covering mortgage or loan flag,0
+Reason for extra borrowing,0
+When will endowment pay out,0
+Endowment policies secured on property,0
+Imputed - Whether there is any endowment policies covering mortgage or loan,0
+Imputed Estimate of current value of endowment,0
+Imputed If has equity release flag,0
+Whether owns other type of vehicle,0
+Whether owns other type of vehicle,0
+When will endowment pay out,0
+Person(s) joint mortgage or loan holder,0
+Years mortgage expected to run past SPA,0
+Imputed Estimate of current value of endowment,0
+Banded value monthly repayment on mortgage,0
 ervreg1w5_i,0
-ERvReg1W5,0
-mtype2w5_iflag,0
-MEndVb2W5,0
-SharAppW5,0
+Home reversion - one-off or regular payments,0
+Imputed Type of mortgage loan flag,0
+Closest value of endowment,0
+Percentage of increase in property value,0
 PropDVOPrDebtW5_Aggr,0
-eqtype1w5_iflag,0
-MOname3W5,0
-gcollecw5_iflag,0
-MinvW3W5,0
-MReas14W5,0
-MAll2w5_iflag,0
-MVal3w5_iflag,0
+Imputed Type of lifetime mortgage flag,0
+Person sole mortgage loan holder,0
+Imputed valuables/collectables owned in the hhold flag,0
+Whether has any linked investments,0
+Reasons why mortgage taken out,0
+Imputed Is mortgage an all-in-one account flag,0
+Imputed Amount oustanding on mortgage or loan flag,0
 erecTaxw5_i,0
-VCarNw5_iflag,0
-prreppcw5_iflag,0
-ERecTaxW5,0
+Imputation flag Number of vehicles owned,0
+Imputed What percentage of the property value agreed to pay lender flag,0
+Monthly income beforeafter tax,0
 MYLft3w5_iflag,0
-MPayB3W5,0
-mendv2w5_iflag,0
-prrepfixw5_iflag,0
+Banded value monthly repayment on mortgage,0
+Imputed Current value of endowment flag,0
+Imputed How much did you agree to pay the lender flag,0
 erecmpdw5_i,0
-MJname20W5,0
-mendnum2w5_i,0
-Mendnum2W5,0
-mendvb4w5_i,0
-MAll3w5_iflag,0
-ERecMPDW5,0
-ERvSumBW5,0
-MValB3W5,0
-prrepayw5_iflag,0
-MPolicy2W5,0
-VTypew5_iflag,0
-MEndx2W5,0
-MInc5W5,0
-BridLn3W5,0
-MEndy7W5,0
-MEndy8W5,0
-mendvb5w5_i,0
-MEndy4W5,0
-MNegB2W5,0
-EqValBW5,0
-MEndVb6W5,0
-MYIfCh2W5,0
-ERvReg2W5,0
+Person(s) joint mortgage or loan holder,0
+Imputed no. of endowment policies covering mortgage or loan,0
+Number endowments covering mortgageloan,0
+Imputed Estimate of current value of endowment,0
+Imputed Is mortgage an all-in-one account flag,0
+Period payments cover,0
+Amount of the one-off payment,0
+Banded amount outstanding on mortgageloan,0
+Imputed Did you agree how you will repay the loan flag,0
+Amount of mortgage 2 expects investment policies to pay off,0
+Imputed  flag type of vehicle,0
+How much of mortgage 2 endowment(s) expected to pay off,0
+What is included in repayments,0
+Type of loan on property (mortgage 3),0
+When will endowment pay out,0
+When will endowment pay out,0
+Imputed Estimate of current value of endowment,0
+When will endowment pay out,0
+Banded amount negative balanceoverdraft current account,0
+Value of the mortgage,0
+Closest value of endowment,0
+Extended length of mortgage last two years?,0
+Home reversion - one-off or regular payments,0
 ervreg2w5_i,0
 ErvTaxw5_i,0
-ERvTaxW5,0
-mtype3w5_iflag,0
+Home reversion income - beforeafter tax,0
+Imputed Type of mortgage loan flag,0
 erecmbyw5_i,0
-MNeg2w5_iflag,0
-mendvb1w5_iflag,0
-EqType2W5,0
-eqtype2w5_i,0
-mendvb2w5_iflag,0
-mendnum1w5_iflag,0
-ERvRecPDW5,0
+Imputed - Negative balance on all-in-one mortgage flag,0
+Imputed Estimate of current value of endowment flag,0
+Type(s) of lifetime mortgage,0
+Imputed Type of lifetime mortgage,0
+Imputed Estimate of current value of endowment flag,0
+Imputed no. of endowment policies covering mortgage or loan flag,0
+Period that regular payments usually cover,0
 ErvRecPdw5_i,0
-mendvb8w5_i,0
-MEndVb8W5,0
-Ten1w5_iflag,0
-HSharew5_iflag,0
-MEndx3W5,0
-Mendnum3W5,0
-mendvb11w5_i,0
-mendnum3w5_i,0
-eqvalw5_iflag,0
-mendv6w5_iflag,0
-mendw2w5_iflag,0
+Imputed Estimate of current value of endowment,0
+Closest value of endowment,0
+Imputed flag,0
+Imputed flag,0
+How much of mortgage 3 endowment(s) expected to pay off,0
+Number endowments covering mortgageloan,0
+Imputed Estimate of current value of endowment,0
+Imputed no. of endowment policies covering mortgage or loan,0
+Imputed Amount of lifetime mortgage annuity flag,0
+Imputed Current value of endowment flag,0
+Imputed - Whether there is any endowment policies covering mortgage or loan flag,0
 erecTaxw5_iflag,0
-mendv7w5_iflag,0
+Imputed Current value of endowment flag,0
 mendv8w5_iflag,0
-MEndVb7W5,0
-mendvb7w5_i,0
-VPerSw5_iflag,0
-DVERvrecGrossAnnualw5,0
-VOTypw5_iflag,0
-MYIfCh3W5,0
-DVEqSRbW5,0
+Closest value of endowment,0
+Imputed Estimate of current value of endowment,0
+Imputation flag whether owns personalised or valuable number plate,0
+Gross Annual Income from equity release home reversion scheme,0
+Imputation flag whether owns other type of vehicle,0
+Extended length of mortgage last two years?,0
+Sale and Rent back,0
 RentSpecifyW5,0
-MEndVb3W5,0
-eintw5_iflag,0
-mendv3w5_iflag,0
-MAllty3W5,0
+Closest value of endowment,0
+Imputed Do you pay interest on your mortgage flag,0
+Imputed Current value of endowment flag,0
+Type of all-in-one account mortgage,0
 MAllTy3w5_i,0
 MAllTy3w5_iflag,0
-mendw3w5_iflag,0
-mendvb11w5_iflag,0
-MEndVb11W5,0
-mendnum2w5_iflag,0
-mendnum3w5_iflag,0
-mendvb8w5_iflag,0
-mendvb7w5_iflag,0
-mendvb6w5_iflag,0
-EMSArrW5,0
-mendv4w5_iflag,0
-mendvb5w5_iflag,0
-mendv5w5_iflag,0
+Imputed - Whether there is any endowment policies covering mortgage or loan flag,0
+Imputed Estimate of current value of endowment flag,0
+Closest value of endowment,0
+Imputed no. of endowment policies covering mortgage or loan flag,0
+Imputed no. of endowment policies covering mortgage or loan flag,0
+Imputed Estimate of current value of endowment flag,0
+Imputed Estimate of current value of endowment flag,0
+Imputed Estimate of current value of endowment flag,0
+Amount owed in missed interest payments,0
+Imputed Current value of endowment flag,0
+Imputed Estimate of current value of endowment flag,0
+Imputed Current value of endowment flag,0
 MEndVb5W5,0
-MEndv7W5,0
-mendvb4w5_iflag,0
-MEndv8W5,0
-MEndVb4W5,0
-mendvb3w5_iflag,0
-mendv11w5_iflag,0
-MAllTy2w5_iflag,0
-HValuew5_iflag,0
-HSharePw5_iflag,0
+Value of endowment,0
+Imputed Estimate of current value of endowment flag,0
+Value of endowment,0
+Closest value of endowment,0
+Imputed Estimate of current value of endowment flag,0
+Imputed Current value of endowment flag,0
+Imputed type of all-in-one account mortgage flag,0
+Imputed flag,0
+Imputed flag,0
 ErvTaxw5_iflag,0
-EOthRVBW5,0
-eqdraww5_iflag,0
-eqtype2w5_iflag,0
-EqType3W5,0
-EqType4W5,0
-EqType5W5,0
-EqType6W5,0
-EqType7W5,0
-EqType8W5,0
-EqType9W5,0
-eqvalbw5_iflag,0
-ERecMBYW5,0
+Estimate received for a claim on property,0
+Imputed Did this mortgage have a drawdown element flag,0
+Imputed Type of lifetime mortgage flag,0
+Type(s) of lifetime mortgage,0
+Type(s) of lifetime mortgage,0
+Type(s) of lifetime mortgage,0
+Type(s) of lifetime mortgage,0
+Type(s) of lifetime mortgage,0
+Type(s) of lifetime mortgage,0
+Type(s) of lifetime mortgage,0
+Imputed Estimate of lifetime mortgage annuity flag,0
+Banded amount received this period,0
 erecmbyw5_iflag,0
 erecmpdw5_iflag,0
 erecw5_iflag,0
-ervprpw5_iflag,0
-ERvRecBYW5,0
+Imputed Percentage of property sold for home reversion scheme flag,0
+Received from scheme this period,0
 ErvRecbyw5_i,0
 ErvRecbyw5_iflag,0
 ErvRecPdw5_iflag,0
